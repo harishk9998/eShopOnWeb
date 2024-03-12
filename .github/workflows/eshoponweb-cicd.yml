@@ -9,7 +9,7 @@ env:
   LOCATION: eastasia
   TEMPLATE-FILE: infra/webapp.bicep
   SUBSCRIPTION-ID: 8a56f52b-d827-42e4-94fd-da07034155e4
-  WEBAPP-NAME: eshoponweb-webapp-harish999
+  WEBAPP-NAME: eshoponweb-webapp-ayaan-testing
 
 
 jobs:
